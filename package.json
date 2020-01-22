@@ -4,6 +4,10 @@
   "description": "List of examples and questions linked to async/await, promises, callbacks and event-loop/tasks/microtasks in js",
   "main": "index.js",
   "scripts": {
+    "start1": "node exp_1/exp_1.js",
+    "start2": "node exp_2/exp_2.js",
+    "start3": "node exp_3/exp_3.js",
+    "start4": "node exp_4/exp_4.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
