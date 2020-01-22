@@ -1,0 +1,12 @@
+OUTPUT:
+Starting for 1
+Starting for 2
+Starting for 3
+Starting for 4
+Starting for 5
+ === Done ===
+After then in promise:  2
+After then in promise:  4
+After then in promise:  1
+After then in promise:  5
+After then in promise:  3

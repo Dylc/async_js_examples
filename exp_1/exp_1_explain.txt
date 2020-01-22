@@ -1,0 +1,18 @@
+Result is quite easy,
+
+In  iteration we start promise and and then in this promise
+The iteration doesn't wait that promise will be settled
+That' why we see 
+Starting for 1
+Starting for 2
+Starting for 3
+Starting for 4
+Starting for 5
+
+After we exit from iteration and print Done, 
+and after we start to settle out promises
+all of them are strated approximately in the same time, so we will see
+2,4 - in parallel (where 2 is expected to be the first)
+1,5 - in parallel (where 1 is expected to be the first)
+3 - the last
+

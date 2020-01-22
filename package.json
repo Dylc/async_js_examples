@@ -1,0 +1,14 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "List of examples and questions linked to async/await, promises, callbacks and event-loop/tasks/microtasks in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "David Cargatser",
+  "license": "ISC"
+}
