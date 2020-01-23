@@ -8,6 +8,9 @@
     "start2": "node exp_2/exp_2.js",
     "start3": "node exp_3/exp_3.js",
     "start4": "node exp_4/exp_4.js",
+    "start5": "node exp_5/exp_5.js",
+    "start6": "node exp_6/exp_6.js",
+    "start7": "node exp_7/exp_7.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

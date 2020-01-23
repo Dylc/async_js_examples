@@ -1,0 +1,6 @@
+script start
+script end
+promise1
+promise3
+promise2
+setTimeout
